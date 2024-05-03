@@ -1,0 +1,30 @@
+{
+  "name": "@alexandrebodin/react-native-vexflow",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "vitest",
+    "lint": "xo"
+  },
+  "keywords": [
+    "react",
+    "vexflow",
+    "music",
+    "notation",
+    "sheet",
+    "score"
+  ],
+  "author": {
+    "name": "Alexandre BODIN",
+    "email": "bodin.alex@gmail.com",
+    "url": "https://alexandrebodin.com"
+  },
+  "funding": "https://alexandrebodin.com/donate",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^1.5.3",
+    "xo": "^0.58.0"
+  },
+  "peerDependencies": {
+    "vexflow": "^4.2.3"
+  }
+}
